@@ -1,3 +1,5 @@
+<img width="1774" height="887" alt="BannerSarifTahir" src="https://github.com/user-attachments/assets/fffe5e20-5033-4c8b-ada6-9dcf27f6d247" />
+
 # Hi, I'm Sarif Tahir 👋
 
 ## Data Analyst | SQL | Power BI | Python | Excel
