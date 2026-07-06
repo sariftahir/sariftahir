@@ -1,4 +1,4 @@
-<img width="1584" height="396" alt="Banner Sarif Tahir (2)" src="https://github.com/user-attachments/assets/11b3d046-dbb2-40d8-a2b5-61cd8614fc8f" />
+<img width="1584" height="396" alt="Banner Sarif Tahir (3)" src="https://github.com/user-attachments/assets/322d480f-9591-41fd-8bb6-c73e10ba3cc9" />
 
 # Hi, I'm Sarif Tahir 👋
 
