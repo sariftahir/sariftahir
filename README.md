@@ -1,26 +1,28 @@
-<img width="1584" height="396" alt="Banner Readme" src="https://github.com/user-attachments/assets/3c60faa7-464f-4362-bd84-61d941fcdc4d" />
 
-# Hi, I'm Sarif Tahir 
+# Hi, I'm Sarif Tahir
 
-## Data Analyst | SQL | Power BI | Python | Excel
+## Data Analyst | SQL | Power BI | Excel
 
-I build end-to-end analytics solutions — from raw data 
-and SQL pipelines to Power BI dashboards that help 
-businesses make faster, better decisions.
+I build end-to-end analytics solutions—from raw data generation and SQL analysis to interactive Power BI dashboards that help businesses make faster, better decisions.
 
 ---
 
 ## Tech Stack
-SQL Server · Power BI · DAX · Python · 
-Power Query · Excel · Git
+
+SQL Server · Power BI · DAX · Python · Power Query · Excel · Git
+
 ---
 
-## Featured Projects
+# Featured Projects
 
-### Retail Analytics Project
+## Retail Analytics Project
+
+🔗 **Repository**  
+https://github.com/sariftahir/retail-analytics-project
+
 An end-to-end retail analytics solution covering data generation, SQL analysis, data modeling, KPI development, and interactive Power BI dashboards for business decision-making.
 
-**Skills:**
+**Skills**
 - SQL
 - Data Modeling
 - Power BI
@@ -29,19 +31,23 @@ An end-to-end retail analytics solution covering data generation, SQL analysis, 
 
 ---
 
-### Supply Chain & Inventory Analytics
-Designed an inventory and supply chain analytics solution to monitor stock performance, supplier efficiency, procurement, and inventory health through interactive dashboards.
+## Inventory & Warehouse Analytics
 
-**Skills:**
+🔗 **Repository**  
+https://github.com/sariftahir/retail-operations-intelligence-dashboard
+
+Designed an inventory operations analytics solution to monitor inventory health, warehouse performance, supplier efficiency, procurement, and stock availability through interactive Power BI dashboards.
+
+**Skills**
 - SQL
 - Inventory Analytics
+- Warehouse Analytics
 - Power BI
-- KPI Design
-- Dashboard Development
+- KPI Reporting
 
 ---
 
-## Connect With Me
+# Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/sariftahir/
 - Upwork: https://www.upwork.com/freelancers/~019cc83321d2b1149c
